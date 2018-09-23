@@ -2,9 +2,8 @@
   "name": "chatbot",
   "version": "1.0.0",
   "description": "",
-  "main": "lib",
   "scripts": {
-    "start": "node .",
+    "start": "node ./lib/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
